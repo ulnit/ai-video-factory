@@ -1,0 +1,32 @@
+1
+00:00:00,000 --> 00:00:02,100
+Start small. Pick one task to automate.
+
+2
+00:00:02,100 --> 00:00:04,099
+The future is AI.
+
+3
+00:00:04,099 --> 00:00:06,099
+GitHub Copilot: AI pair programmer.
+
+4
+00:00:06,099 --> 00:00:08,099
+Writes code 55% faster.
+
+5
+00:00:08,099 --> 00:00:10,199
+Combine multiple AI tools for maximum productivity.
+
+6
+00:00:10,199 --> 00:00:12,199
+Automate, delegate, eliminate.
+
+7
+00:00:12,199 --> 00:00:14,599
+AI is the biggest shift since the internet.
+
+8
+00:00:14,599 --> 00:00:16,600
+Early adopters win the most.
+
