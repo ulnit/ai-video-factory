@@ -6,6 +6,12 @@
 
 A fully automated video production pipeline that runs on a $35 Raspberry Pi. No camera, no microphone, no editing skills needed. Just pick a topic and the AI does the rest.
 
+## 🌟 Featured In
+
+This product is part of the **[ulnit Agent Store](https://ulnit.github.io/agent-store)** — 23 AI-powered products running 24/7 on a $35 Raspberry Pi.
+
+> 💡 **Power Pairing:** Use **AI Video Factory** to generate video content, then monetize the traffic through **[AI API Gateway](https://github.com/ulnit/ai-api-gateway)** — resell AI access to your viewers at a 50% markup.
+
 ## How It Works
 
 ```
