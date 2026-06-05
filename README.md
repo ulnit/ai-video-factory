@@ -110,7 +110,11 @@ python3 src/generator.py "Your Topic Here"
 | [📊 Trading Signals](https://github.com/ulnit/ai-trading-signals) | Daily A-share market intelligence | $29-99/mo |
 | [🎬 Video Factory](https://github.com/ulnit/ai-video-factory) | Automated video content pipeline | $9/mo |
 | [🔌 API Gateway](https://github.com/ulnit/ai-api-gateway) | White-label AI model reselling | $9/mo |
+| [🎨 Thumbnail Pro](https://github.com/ulnit/ai-thumbnail-pro) | AI thumbnail & social graphics generator | $5 |
+| [📱 Social Media Kit](https://github.com/ulnit/ai-social-kit) | Cross-platform auto posting engine | $7 |
+| [🏗️ Landing Page Factory](https://github.com/ulnit/ai-landing-factory) | Auto SEO landing page generator | $9 |
+| [🛠️ Agent Toolkit](https://github.com/ulnit/ai-agent-toolkit) | Zero-dep CLI tools for AI developers | $9 |
 | [📝 Resume Optimizer](https://github.com/ulnit/ai-resume-optimizer) | ATS-friendly resume enhancement | $5-15 |
 | [🤖 CS Bot](https://github.com/ulnit/ai-cs-bot) | White-label customer service chatbot | $19-49/mo |
 
-> 🏪 [View All 19 Products →](https://ulnit.github.io/agent-store)
+> 🏪 [View All 23 Products →](https://ulnit.github.io/agent-store)
