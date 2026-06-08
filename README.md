@@ -8,7 +8,7 @@ A fully automated video production pipeline that runs on a $35 Raspberry Pi. No 
 
 ## 🌟 Featured In
 
-This product is part of the **[ulnit Agent Store](https://ulnit.github.io/agent-store)** — 23 AI-powered products running 24/7 on a $35 Raspberry Pi.
+This product is part of the **[ulnit Agent Store](https://ulnit.github.io/agent-store)** — 15 AI-powered products running 24/7 on a $35 Raspberry Pi.
 
 > 💡 **Power Pairing:** Use **AI Video Factory** to generate video content, then monetize the traffic through **[AI API Gateway](https://github.com/ulnit/ai-api-gateway)** — resell AI access to your viewers at a 50% markup.
 
@@ -117,4 +117,4 @@ python3 src/generator.py "Your Topic Here"
 | [📝 Resume Optimizer](https://github.com/ulnit/ai-resume-optimizer) | ATS-friendly resume enhancement | $5-15 |
 | [🤖 CS Bot](https://github.com/ulnit/ai-cs-bot) | White-label customer service chatbot | $19-49/mo |
 
-> 🏪 [View All 23 Products →](https://ulnit.github.io/agent-store)
+> 🏪 [View All 15 Products →](https://ulnit.github.io/agent-store)
